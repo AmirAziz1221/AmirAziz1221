@@ -28,11 +28,28 @@ Welcome to my GitHub profile! I'm **Amir Aziz**, a dedicated Data Scientist focu
 ---
 
 ### 🛠️ My Tech Toolbox:
-- **Languages**: Python, R, SQL
-- **Visualization**: Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Scikit-Learn, TensorFlow, PyTorch
-- **Data Analysis**: Pandas, NumPy
-- **Tools**: Jupyter Notebook, Google Colab
+- **Languages**: 
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white)
+  - ![R](https://img.shields.io/badge/-R-276DC3?logo=r&style=for-the-badge&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql&style=for-the-badge&logoColor=white)
+
+- **Visualization**: 
+  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?logo=matplotlib&style=for-the-badge&logoColor=white)
+  - ![Seaborn](https://img.shields.io/badge/-Seaborn-30B1B0?logo=seaborn&style=for-the-badge&logoColor=white)
+  - ![Plotly](https://img.shields.io/badge/-Plotly-3B4A66?logo=plotly&style=for-the-badge&logoColor=white)
+
+- **Machine Learning**: 
+  - ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&style=for-the-badge&logoColor=white)
+  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?logo=tensorflow&style=for-the-badge&logoColor=white)
+  - ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&style=for-the-badge&logoColor=white)
+
+- **Data Analysis**: 
+  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=for-the-badge&logoColor=white)
+  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=for-the-badge&logoColor=white)
+
+- **Tools**: 
+  - ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&style=for-the-badge&logoColor=white)
+  - ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=googlecolab&style=for-the-badge&logoColor=white)
 
 ---
 
