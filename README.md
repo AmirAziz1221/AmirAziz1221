@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm **Amir Aziz**, a dedicated Data Scientist focu
 
 ### Connect with Me:
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amiraziz1221.github.io/portfolio)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&style=for-the-badge)](https://github.com/AmirAziz1221)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/amir-aziz-2868aa266/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/AE7wZjwH)
