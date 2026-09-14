@@ -29,16 +29,16 @@ Fresh Graduate | Data Science | Artificial Intelligence | Machine Learning
 
 ---
 
-### 💡 What I Do
+### What I Do
 
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision & Image Processing
-- 🎯 Object Detection using YOLO
-- 📊 Data Analysis & Visualization
-- 🧠 Natural Language Processing
-- 🎬 Recommendation Systems
-- 🔗 AI-powered Applications & APIs
-- 🚀 Turning ideas into practical AI solutions
+- Machine Learning & Deep Learning
+- Computer Vision & Image Processing
+- Object Detection using YOLO
+- Data Analysis & Visualization
+- Natural Language Processing
+- Recommendation Systems
+- AI-powered Applications & APIs
+- Turning ideas into practical AI solutions
 
 ---
 
@@ -84,7 +84,7 @@ Fresh Graduate | Data Science | Artificial Intelligence | Machine Learning
 
 ---
 
-### 🚀 Featured Areas
+### Featured Areas
 
 **Computer Vision**  
 Object Detection • YOLO • OpenCV • Tracking • Image Processing
@@ -99,6 +99,6 @@ AI APIs • FastAPI • Deep Learning • Intelligent Automation
 
 > **"Success is the sum of small efforts, repeated day in and day out."** — Robert Collier
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 Feel free to explore my repositories, connect with me, or reach out if you'd like to **collaborate, build an AI solution, or discuss an exciting project.**
