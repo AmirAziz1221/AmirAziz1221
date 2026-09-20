@@ -1,4 +1,4 @@
-
+# Hello, I'm Amir Aziz! 👋
 
 Welcome to my GitHub profile! I'm **Amir Aziz**, a **fresh BS Data Science graduate from UET Peshawar** with a strong interest in **Artificial Intelligence, Machine Learning, and Computer Vision**.
 
