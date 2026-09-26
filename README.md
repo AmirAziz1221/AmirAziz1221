@@ -12,7 +12,7 @@ I'm continuously learning, building projects, and looking for opportunities to w
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amiraziz1221.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&style=for-the-badge)](https://github.com/AmirAziz1221)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/amir-aziz-2868aa266/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/amirazizdawar/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/AE7wZjwH)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/amirazizdatascience)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?logo=fiverr&style=for-the-badge&logoColor=white)](https://www.fiverr.com/sellers/amiraziz1221)
