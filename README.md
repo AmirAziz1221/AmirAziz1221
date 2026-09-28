@@ -168,29 +168,6 @@ My interests include:
 
 ---
 
-## 🚀 Featured Projects
-
-### 👁️ Computer Vision
-
-**🔹 Civil AI Inspection**
-
-AI-powered infrastructure inspection system for analyzing visual defects and generating inspection reports.
-
-**Tech:** `YOLO` `Python` `FastAPI` `React` `Next.js` `Computer Vision` `Claude API`
-
-**🔹 Face Presence Monitoring**
-
-Real-time webcam monitoring pipeline designed to detect situations where a candidate's face is missing, partially visible, obscured, poorly visible, or when multiple faces appear.
-
-**Tech:** `YOLO` `OpenCV` `Python` `FastAPI`
-
-**🔹 Pinch-to-Fire**
-
-Real-time hand gesture recognition application using webcam input to detect pinch gestures and generate visual effects.
-
-**Tech:** `Python` `OpenCV` `MediaPipe` `NumPy`
-
----
 
 ### 🤖 Machine Learning & NLP
 
@@ -237,32 +214,6 @@ Content-based recommendation system that recommends movies based on similarity b
 Focused on:
 
 `Data Science` · `Machine Learning` · `Artificial Intelligence` · `Computer Vision` · `Deep Learning`
-
----
-
-## 🌱 Currently Learning
-
-```text
-Computer Vision
-        ↓
-YOLO → Detection → Tracking → Segmentation
-        ↓
-Deep Learning → PyTorch → Model Optimization
-        ↓
-Deployment → FastAPI → ONNX → Docker
-        ↓
-Production AI Applications
-```
-
-I'm continuously improving my skills in:
-
-* Advanced Computer Vision
-* Deep Learning with PyTorch
-* Generative AI & LLM applications
-* RAG systems
-* AI agents & automation
-* Model optimization and deployment
-* Production-ready AI APIs
 
 ---
 
