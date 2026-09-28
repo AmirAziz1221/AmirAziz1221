@@ -1,104 +1,303 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E3A8A&height=200&section=header&text=Amir%20Aziz&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:123B63,100:1E3A8A&height=220&section=header&text=Amir%20Aziz&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&background=1E3A8A&center=true&vCenter=true&width=800&height=70&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Computer+Vision+Engineer;AI+Engineer;Data+Scientist" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=70&lines=AI+Engineer;Computer+Vision+Engineer;Data+Scientist;Machine+Learning+Engineer;Building+AI+%7C+Vision+%7C+ML+Solutions" alt="Typing animation" />
 
-</div>
+<br/>
 
----
-
-Welcome to my GitHub profile! I'm **Amir Aziz**, a **BS Data Science graduate from UET Peshawar** with a strong focus on **Artificial Intelligence, Machine Learning, and Computer Vision**.
-
-I build practical, real-world solutions using **Python, PyTorch, YOLO, and OpenCV**. My work spans **object detection, image processing, NLP, recommendation systems, and AI-powered applications** — deployed via **FastAPI** and exported to **ONNX, CoreML, and TFLite**.
-
-I'm continuously learning, building projects, and open to **AI/ML opportunities, freelance work, and collaborations**.
-
----
-
-### 👤 Who I Am
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=140&section=header&text=Amir%20Aziz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Amir Aziz" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&background=0A192F&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+profile;Computer+Vision+Engineer;AI+Engineer;Data+Scientist" alt="Typing animation" />
+<p>
+<a href="https://amiraziz1221.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/amir-aziz-2868aa266/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/AmirAziz1221">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:amiraziz.uet@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-### Connect with Me:
+## 👋 About Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amiraziz1221.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&style=for-the-badge)](https://github.com/AmirAziz1221)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/amir-aziz-2868aa266/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/amirazizdatascience)
-[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?logo=fiverr&style=for-the-badge&logoColor=white)](https://www.fiverr.com/sellers/amiraziz1221)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:amiraziz.uet@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white)](https://wa.me/923049274032)
+Hi, I'm **Amir Aziz**, a **BS Data Science graduate from UET Peshawar** focused on building practical solutions in **Artificial Intelligence, Machine Learning, and Computer Vision**.
 
----
+My strongest programming language is **Python**, and I enjoy taking AI ideas from experimentation to working applications.
 
-### 🎓 Education
+I work with technologies such as **PyTorch, TensorFlow, YOLO, OpenCV, MediaPipe, Scikit-learn, Hugging Face, FastAPI, and Docker**.
 
-**BS Data Science — University of Engineering & Technology (UET), Peshawar**
+My interests include:
 
----
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision & Deep Learning
+* 🎯 Object Detection, Tracking & Segmentation
+* 🧠 Natural Language Processing
+* 📊 Data Science & Predictive Modeling
+* 🚀 AI Model Deployment & APIs
+* ⚡ Real-time AI applications
 
-### What I Do
-
-- Machine Learning & Deep Learning
-- Computer Vision & Object Detection (YOLO)
-- Image Processing & Tracking
-- Natural Language Processing
-- Recommendation Systems
-- AI-powered Applications & APIs (FastAPI)
-- Model deployment (ONNX, CoreML, TFLite)
+> **My goal:** Build reliable, practical AI systems that solve real-world problems.
 
 ---
 
-### 🛠️ My Tech Toolbox
+## 🧑‍💻 What I Build
 
-#### **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&style=for-the-badge&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-#### **Machine Learning & AI**
-![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&style=for-the-badge&logoColor=black)
+### 👁️ Computer Vision
 
-#### **Computer Vision**
-![OpenCV](https://img.shields.io/badge/-OpenCV-27338E?logo=opencv&style=for-the-badge&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-111F68?style=for-the-badge&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+* YOLO object detection
+* Image classification
+* Object tracking
+* Image processing
+* Face detection & monitoring
+* Real-time webcam applications
+* MediaPipe-based vision systems
+* Computer vision model optimization
 
-#### **Data Science**
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557A?style=for-the-badge&logo=matplotlib&logoColor=white)
+</td>
 
-#### **Development & Deployment**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&style=for-the-badge&logoColor=white)
+<td width="50%">
 
-#### **Tools**
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&style=for-the-badge&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=googlecolab&style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white)
+### 🤖 AI & Machine Learning
+
+* Supervised learning
+* Deep learning
+* NLP
+* Recommendation systems
+* Transformers
+* Model evaluation
+* Feature engineering
+* AI-powered applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚀 Deployment
+
+* FastAPI inference APIs
+* ONNX model deployment
+* CoreML conversion
+* TFLite deployment
+* Dockerized applications
+* Cloud-ready AI systems
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Science
+
+* Data preprocessing
+* Exploratory data analysis
+* Statistical analysis
+* Feature engineering
+* Model training & evaluation
+* Scikit-learn pipelines
+* Data visualization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+### 🐍 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### 👁️ Computer Vision
+
+<p>
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### 📊 Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557A?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+</p>
+
+### 🚀 Development & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 👁️ Computer Vision
+
+**🔹 Civil AI Inspection**
+
+AI-powered infrastructure inspection system for analyzing visual defects and generating inspection reports.
+
+**Tech:** `YOLO` `Python` `FastAPI` `React` `Next.js` `Computer Vision` `Claude API`
+
+**🔹 Face Presence Monitoring**
+
+Real-time webcam monitoring pipeline designed to detect situations where a candidate's face is missing, partially visible, obscured, poorly visible, or when multiple faces appear.
+
+**Tech:** `YOLO` `OpenCV` `Python` `FastAPI`
+
+**🔹 Pinch-to-Fire**
+
+Real-time hand gesture recognition application using webcam input to detect pinch gestures and generate visual effects.
+
+**Tech:** `Python` `OpenCV` `MediaPipe` `NumPy`
+
+---
+
+### 🤖 Machine Learning & NLP
+
+**🔹 WhatsApp Truncated-Message Classification**
+
+NLP system for classifying notification messages into categories and extracting useful urgency/deadline information.
+
+**Tech:** `Python` `Scikit-learn` `DistilBERT` `ONNX` `NLP`
+
+**🔹 Movie Recommendation System**
+
+Content-based recommendation system that recommends movies based on similarity between movie features.
+
+**Tech:** `Python` `Pandas` `Scikit-learn` `Streamlit`
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmirAziz1221&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAziz1221&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AmirAziz1221&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+## 🎓 Education
+
+### University of Engineering & Technology, Peshawar
+
+**BS Data Science**
+
+Focused on:
+
+`Data Science` · `Machine Learning` · `Artificial Intelligence` · `Computer Vision` · `Deep Learning`
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Computer Vision
+        ↓
+YOLO → Detection → Tracking → Segmentation
+        ↓
+Deep Learning → PyTorch → Model Optimization
+        ↓
+Deployment → FastAPI → ONNX → Docker
+        ↓
+Production AI Applications
+```
+
+I'm continuously improving my skills in:
+
+* Advanced Computer Vision
+* Deep Learning with PyTorch
+* Generative AI & LLM applications
+* RAG systems
+* AI agents & automation
+* Model optimization and deployment
+* Production-ready AI APIs
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+
+**AI Engineer • Computer Vision Engineer • ML Engineer • Data Scientist**
+
+I'm also open to **freelance AI/CV projects, technical collaborations, research opportunities, and professional networking**.
+
+<div align="center">
+
+<a href="https://amiraziz1221.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-38BDF8?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amir-aziz-2868aa266/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:amiraziz.uet@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Get%20In%20Touch-EA4335?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-> *"Success is the sum of small efforts, repeated day in and day out."* — Robert Collier
+### 💡 *Build. Learn. Deploy. Repeat.*
 
-**Thanks for visiting! Feel free to explore my repos or reach out to collaborate.**
+**Thanks for visiting my profile! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0A192F&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:123B63,100:0A192F&height=130&section=footer" width="100%"/>
 
 </div>
