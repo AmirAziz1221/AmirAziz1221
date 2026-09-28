@@ -18,20 +18,13 @@ I'm continuously learning, building projects, and open to **AI/ML opportunities,
 
 ### 👤 Who I Am
 
-```js
-const amirAziz = {
-  title: "Computer Vision / AI Engineer",
-  stack: {
-    core: ["Python", "PyTorch", "OpenCV", "YOLOv8/YOLO26"],
-    backend: ["FastAPI"],
-    deployment: ["ONNX", "CoreML", "TFLite"],
-    tools: ["Ultralytics HUB", "Git", "Docker", "Colab", "Jupyter"]
-  },
-  focus: ["Object Detection", "Tracking", "Image Processing", "NLP", "Recommendation Systems"],
-  education: "BS Data Science — UET Peshawar",
-  openTo: ["AI/ML Roles", "Freelance Projects", "Collaboration"]
-};
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=140&section=header&text=Amir%20Aziz&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Amir Aziz" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&background=0A192F&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+profile;Computer+Vision+Engineer;AI+Engineer;Data+Scientist" alt="Typing animation" />
+
+</div>
 
 ---
 
