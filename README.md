@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Amir Aziz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E3A8A&height=200&section=header&text=Amir%20Aziz&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" />
 
-### Computer Vision & AI Engineer | Building Real-World AI Solutions
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&background=1E3A8A&center=true&vCenter=true&width=800&height=70&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Computer+Vision+Engineer;AI+Engineer;Data+Scientist" alt="Typing animation" />
 
 </div>
 
@@ -105,5 +105,7 @@ const amirAziz = {
 > *"Success is the sum of small efforts, repeated day in and day out."* — Robert Collier
 
 **Thanks for visiting! Feel free to explore my repos or reach out to collaborate.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0A192F&height=120&section=footer" width="100%" />
 
 </div>
