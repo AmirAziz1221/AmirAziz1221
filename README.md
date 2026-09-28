@@ -7,6 +7,7 @@
 <p>
 <a href="https://amiraziz1221.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/amir-aziz-2868aa266/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.fiverr.com/users/amiraziz1221/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 <a href="mailto:amiraziz.uet@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -51,14 +52,22 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 - **Movie Recommendation System** – Content-based recommender using movie feature similarity.
   `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-
-## Let's Connect
-
-Open to **AI / CV / ML roles**, **freelance projects**, and **collaborations**. Reach me via [portfolio](https://amiraziz1221.github.io/portfolio/), [LinkedIn](https://www.linkedin.com/in/amir-aziz-2868aa266/), or [email](mailto:amiraziz.uet@gmail.com).
+## GitHub Stats
 
 <div align="center">
 
-*Build. Learn. Deploy. Repeat.* 
+<img src="https://github-readme-stats.vercel.app/api?username=AmirAziz1221&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAziz1221&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+
+</div>
+
+## Let's Connect
+
+Open to **AI / CV / ML roles**, **freelance projects**, and **collaborations**. Hire me on [Fiverr](https://www.fiverr.com/users/amiraziz1221/), or reach me via [portfolio](https://amiraziz1221.github.io/portfolio/), [LinkedIn](https://www.linkedin.com/in/amir-aziz-2868aa266/), or [email](mailto:amiraziz.uet@gmail.com).
+
+<div align="center">
+
+*Build. Learn. Deploy. Repeat.* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:123B63,100:0A192F&height=100&section=footer" width="100%"/>
 
