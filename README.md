@@ -52,14 +52,14 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 - **Movie Recommendation System** – Content-based recommender using movie feature similarity.
   `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-## GitHub Stats
+   ## GitHub Stats
 
-<div align="center">
+   <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmirAziz1221&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAziz1221&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+   ![Followers](https://img.shields.io/github/followers/AmirAziz1221?style=for-the-badge&logo=github&color=1E3A8A)
+   ![Profile Views](https://komarev.com/ghpvc/?username=AmirAziz1221&style=for-the-badge&color=38BDF8)
 
-</div>
+   </div>
 
 ## Let's Connect
 
