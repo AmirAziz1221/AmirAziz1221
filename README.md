@@ -56,9 +56,9 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 
 <div align="center">
 
-<!-- GitHub Streak -->
+<!-- 2026 Contributions -->
 
-<img src="https://streak-stats.demolab.com?user=AmirAziz1221&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=AmirAziz1221&show_icons=false&hide_title=true&hide_rank=true&hide=stars,commits,prs,issues,contribs&custom_title=2026%20Contributions" alt="2026 Contributions" />
 
 <br><br>
 
