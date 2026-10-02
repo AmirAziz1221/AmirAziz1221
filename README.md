@@ -56,12 +56,6 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 
 <div align="center">
 
-<!-- Profile Stats -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAziz1221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-
-<br><br>
-
 <!-- GitHub Streak -->
 
 <img src="https://streak-stats.demolab.com?user=AmirAziz1221&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
