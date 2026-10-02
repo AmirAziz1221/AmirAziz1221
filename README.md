@@ -77,6 +77,7 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 <img src="https://img.shields.io/github/followers/AmirAziz1221?style=for-the-badge&logo=github&label=FOLLOWERS&color=1E3A8A" alt="GitHub Followers" />
 
 </div>
+
 ### 🐍 Contribution Graph
 
 <div align="center">
