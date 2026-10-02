@@ -52,23 +52,32 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 - **Movie Recommendation System** – Content-based recommender using movie feature similarity.
   `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-   ## GitHub Stats
+## 📊 GitHub Stats
 
-   <div align="center">
+<div align="center">
 
-   ![Followers](https://img.shields.io/github/followers/AmirAziz1221?style=for-the-badge&logo=github&color=1E3A8A)
-   ![Profile Views](https://komarev.com/ghpvc/?username=AmirAziz1221&style=for-the-badge&color=38BDF8)
+<!-- Profile Stats -->
 
-   <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=AmirAziz1221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
 
- ### 📊 Contributions & Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAziz1221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 
-  [![Amir's GitHub Stats](https://vercel.app)](https://github.com)
+<br><br>
 
-  [![Amir's GitHub Streak](https://herokuapp.com)](https://github.com)
+<!-- GitHub Streak -->
 
-  </div>
+<img src="https://streak-stats.demolab.com?user=AmirAziz1221&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+<br><br>
+
+<!-- Profile Views & Followers -->
+
+<img src="https://komarev.com/ghpvc/?username=AmirAziz1221&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://img.shields.io/github/followers/AmirAziz1221?style=for-the-badge&logo=github&label=FOLLOWERS&color=1E3A8A" alt="GitHub Followers" />
+
+</div>
+   
 ## Let's Connect
 
 Open to **AI / CV / ML roles**, **freelance projects**, and **collaborations**. Hire me on [Fiverr](https://www.fiverr.com/users/amiraziz1221/), or reach me via [portfolio](https://amiraziz1221.github.io/portfolio/), [LinkedIn](https://www.linkedin.com/in/amir-aziz-2868aa266/), or [email](mailto:amiraziz.uet@gmail.com).
