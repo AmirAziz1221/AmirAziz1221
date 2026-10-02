@@ -59,7 +59,15 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
    ![Followers](https://img.shields.io/github/followers/AmirAziz1221?style=for-the-badge&logo=github&color=1E3A8A)
    ![Profile Views](https://komarev.com/ghpvc/?username=AmirAziz1221&style=for-the-badge&color=38BDF8)
 
-   </div>
+   <br><br>
+
+ ### 📊 Contributions & Activity
+
+  [![Amir's GitHub Stats](https://vercel.app)](https://github.com)
+
+  [![Amir's GitHub Streak](https://herokuapp.com)](https://github.com)
+
+  </div>
 
 ## Let's Connect
 
