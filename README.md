@@ -56,12 +56,6 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 
 <div align="center">
 
-<!-- 2026 Contributions -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmirAziz1221&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-
-<br><br>
-
 <!-- Profile Views & Followers -->
 
 <img src="https://komarev.com/ghpvc/?username=AmirAziz1221&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
