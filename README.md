@@ -52,7 +52,7 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 - **Movie Recommendation System** – Content-based recommender using movie feature similarity.
   `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Open to **AI / CV / ML roles**, **freelance projects**, and **collaborations**. 
 
 <div align="center">
 
-*Build. Learn. Deploy. Repeat.* 🚀
+*Build. Learn. Deploy. Repeat.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:123B63,100:0A192F&height=100&section=footer" width="100%"/>
 
