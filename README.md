@@ -77,7 +77,7 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 <img src="https://img.shields.io/github/followers/AmirAziz1221?style=for-the-badge&logo=github&label=FOLLOWERS&color=1E3A8A" alt="GitHub Followers" />
 
 </div>
-
+<br>
 ### 🐍 Contribution Graph
 
 <div align="center">
@@ -85,7 +85,8 @@ BS Data Science graduate from **UET Peshawar**, building practical **AI, Machine
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/AmirAziz1221/AmirAziz1221/output/github-contribution-grid-snake.svg)
 
 </div>
-   
+<br>
+  
 ## Let's Connect
 
 Open to **AI / CV / ML roles**, **freelance projects**, and **collaborations**. Hire me on [Fiverr](https://www.fiverr.com/users/amiraziz1221/), or reach me via [portfolio](https://amiraziz1221.github.io/portfolio/), [LinkedIn](https://www.linkedin.com/in/amir-aziz-2868aa266/), or [email](mailto:amiraziz.uet@gmail.com).
