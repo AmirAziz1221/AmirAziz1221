@@ -18,17 +18,17 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 BS Data Science graduate from **UET Peshawar**. I build practical **AI, Machine Learning and Computer Vision** systems, taking them from experiment to deployed application. Python is my main language.
 
-> 🎯 **Goal:** Build reliable AI systems that solve real-world problems.
+>  **Goal:** Build reliable AI systems that solve real-world problems.
 
 ---
 
-## ⚡ What I Do
+##  What I Do
 
-| 👁️ Computer Vision | 🧠 ML & NLP | 🚀 Deployment |
+|  Computer Vision |  ML & NLP |  Deployment |
 | :-- | :-- | :-- |
 | Detection, tracking & segmentation | Deep learning & Transformers | FastAPI inference APIs |
 | Real-time webcam apps | Recommendation systems | ONNX, CoreML & TFLite |
@@ -36,7 +36,7 @@ BS Data Science graduate from **UET Peshawar**. I build practical **AI, Machine 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,postgres,pandas,numpy&perline=11" alt="Tech stack" />
@@ -49,18 +49,18 @@ BS Data Science graduate from **UET Peshawar**. I build practical **AI, Machine 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| 📱 **WhatsApp Truncated-Message Classifier** | NLP system that classifies notifications and extracts urgency and deadline info | `Python` `Scikit-learn` `DistilBERT` `ONNX` |
-| 🎬 **Movie Recommendation System** | Content-based recommender using movie feature similarity | `Python` `Pandas` `Scikit-learn` `Streamlit` |
+|  **WhatsApp Truncated-Message Classifier** | NLP system that classifies notifications and extracts urgency and deadline info | `Python` `Scikit-learn` `DistilBERT` `ONNX` |
+|  **Movie Recommendation System** | Content-based recommender using movie feature similarity | `Python` `Pandas` `Scikit-learn` `Streamlit` |
 
-👉 [See all repositories](https://github.com/AmirAziz1221?tab=repositories)
+ [See all repositories](https://github.com/AmirAziz1221?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirAziz1221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F" alt="GitHub stats" />
@@ -77,7 +77,7 @@ BS Data Science graduate from **UET Peshawar**. I build practical **AI, Machine 
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 Open to **AI / CV / ML roles**, **freelance projects** and **collaborations**.
 Hire me on [Fiverr](https://www.fiverr.com/users/amiraziz1221/) or reach out via [Portfolio](https://amiraziz1221.github.io/portfolio/), [LinkedIn](https://www.linkedin.com/in/amir-aziz-2868aa266/) or [Email](mailto:amiraziz.uet@gmail.com).
