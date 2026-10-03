@@ -11,8 +11,8 @@
 <a href="mailto:amiraziz.uet@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AmirAziz1221&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/AmirAziz1221?style=flat-square&logo=github&color=1E3A8A" alt="Followers" />
+<img src="https://hits.sh/github.com/AmirAziz1221.svg?style=flat-square&label=Profile%20Views&color=1E3A8A&labelColor=0A192F" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/AmirAziz1221?style=flat-square&logo=github&color=1E3A8A&labelColor=0A192F" alt="Followers" />
 
 </div>
 
@@ -40,11 +40,11 @@ BS Data Science graduate from **UET Peshawar**. I build practical **AI, Machine 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,postgres,pandas,numpy&perline=11" alt="Tech stack" />
-<br/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Hugging%20Face-242938?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/YOLO-242938?style=for-the-badge&logo=ultralytics&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/MediaPipe-242938?style=for-the-badge&logo=google&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/ONNX-242938?style=for-the-badge&logo=onnx&logoColor=white"/>
 </p>
 
 ---
