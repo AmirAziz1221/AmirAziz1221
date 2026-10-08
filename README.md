@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:123B63,100:1E3A8A&height=190&section=header&text=Amir%20Aziz&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Machine%20Learning&descSize=18&descAlignY=58" width="100%" />
 
