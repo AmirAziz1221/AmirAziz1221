@@ -19,17 +19,9 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 BS Data Science graduate from **UET Peshawar (2026)**. I turn **AI, Machine Learning and Computer Vision** ideas into deployed applications, from the notebook to a live web app. Python is my main language.
-
-> 🎯 **Goal:** Build reliable AI systems that solve real-world problems.
-
-### 🔭 Right now
-- 💼 **AI Engineer Intern at TestTrick**, working on face and eye tracking for AI proctoring
-- 🏗️ Building and shipping computer vision demos
-- 📊 Sharing data science work on [Kaggle](https://www.kaggle.com/amirazizdatascience)
-- 📬 Open to **AI / CV / ML roles** and **freelance projects**
 
 ---
 
@@ -68,22 +60,6 @@ BS Data Science graduate from **UET Peshawar (2026)**. I turn **AI, Machine Lear
 
  [All repositories](https://github.com/AmirAziz1221?tab=repositories) · 📊 [Notebooks on Kaggle](https://www.kaggle.com/amirazizdatascience)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirAziz1221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAziz1221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F" alt="Top languages" />
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirAziz1221/AmirAziz1221/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmirAziz1221/AmirAziz1221/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AmirAziz1221/AmirAziz1221/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
 
 ---
 
