@@ -4,7 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=I+build+systems+that+see+and+track;AI+Engineer+Intern+%40+TestTrick;Computer+Vision+%7C+YOLO+%7C+OpenCV;BS+Data+Science+%C2%B7+UET+Peshawar+2026" alt="Typing animation" />
 
-
+<p>
+<a href="https://amiraziz1221.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amir-aziz-2868aa266/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/amirazizdatascience"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.fiverr.com/users/amiraziz1221/"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+<a href="mailto:amiraziz.uet@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <img src="https://hits.sh/github.com/AmirAziz1221.svg?style=flat-square&label=Profile%20Views&color=1E3A8A&labelColor=0A192F" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/AmirAziz1221?style=flat-square&logo=github&color=1E3A8A&labelColor=0A192F" alt="Followers" />
